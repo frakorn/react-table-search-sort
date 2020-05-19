@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+In this application you can filter by name and sort by name that demo table.
+I have used scss, bootstrap and font awesome external libraries.
+
 ## Available Scripts
 
 In the project directory, you can run:
